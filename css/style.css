@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Presudo Class */
+/* h1{
+    color: goldenrod;
+}
+input:focus{
+    font-size: 50px;
+    font-weight: 700;
+    color: goldenrod;
+}
+li:first-child{
+    color: red;
+    font-size: 30px;
+
+}
+li:nth-child(5){
+    color: green;
+    background-color: greenyellow;
+    font-size: 100px;
+}
+a:visited{
+    color: red;
+} */
+/* Presudo Element */
+/* h1::before{
+    content: "Hello ";
+    color: rosybrown;
+    background-color: royalblue;
+}
+.special::after{
+    content: " Good";
+    color: sandybrown;
+    font-size: 35px;
+}
+li::after{
+content: " ❤️";
+} */
+
+/* Postion Practice */
+.container{
+    background-color: thistle;
+}
+div{
+    height: 100px;
+    width: 100px;
+}
+#first{
+    background-color: tomato;
+}
+#second{
+    background-color: turquoise;
+    position: relative;
+    left:100px;
+    top: 0px;
+}
+#third{
+    background-color: yellowgreen;
+}
