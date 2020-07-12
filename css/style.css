@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+/* font-family: 'Open Sans', sans-serif; */
+}
+h1{
+font-size: 25px;
+}
+.name-hilight{
+    color: orangered;
+}
+.prfl-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.prfl-half img{
+    width: 100%;
+}
